@@ -52,11 +52,7 @@ src/
     
     metrics.py          # error metrics + CDF computation
     
-scripts/
-
-  run_all.py            # runs the full comparison matrix and saves outputs
+scripts/run_all.py            # runs the full comparison matrix and saves outputs
   
-notebooks/
-
-  demo.ipynb            # thin: imports + calls runner
+notebooks/demo.ipynb            # thin: imports + calls runner
 
